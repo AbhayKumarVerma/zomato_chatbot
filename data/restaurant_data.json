@@ -1,0 +1,203 @@
+[
+    {
+        "url": "https://barbequenation.com/restaurants/lucknow/rivarsidemall",
+        "name": null,
+        "location": null,
+        "menu_items": [],
+        "special_features": {
+            "vegetarian_options": "No",
+            "gluten_free": "No"
+        },
+        "operating_hours": null,
+        "contact_info": null
+    },
+    {
+        "url": "https://kitchentfs.com/order/kitchen-the-food-stop-lucknow",
+        "name": "Kitchen - The Food Stop - Indira Nagar, Lucknow",
+        "location": "Indira Nagar, Lucknow",
+        "menu_items": [
+            {
+                "name": "Popular Menu",
+                "description": null,
+                "price": null
+            }
+        ],
+        "special_features": {
+            "vegetarian_options": "No",
+            "gluten_free": "No"
+        },
+        "operating_hours": null,
+        "contact_info": "Phone Number"
+    },
+    {
+        "url": "https://www.eazydiner.com/lucknow/azrak-saraca-lucknow-indian-specialty-restaurant-saraca-lucknow-661453/menu",
+        "name": "Azrak- Saraca Lucknow",
+        "location": null,
+        "menu_items": [],
+        "special_features": {
+            "vegetarian_options": "Yes",
+            "gluten_free": "No"
+        },
+        "operating_hours": null,
+        "contact_info": "11"
+    },
+    {
+        "url": "https://www.ihcltata.com/content/dam/vivanta/hotels/VBT-Gomti_Nagar_Lucknow/documents/sahib-cafe-menu-taj-mahal-lucknow.pdf",
+        "name": null,
+        "location": null,
+        "menu_items": [],
+        "special_features": {
+            "vegetarian_options": "No",
+            "gluten_free": "No"
+        },
+        "operating_hours": null,
+        "contact_info": null
+    },
+    {
+        "url": "https://www.lemontreehotels.com/uploads/hoteldine/10_49_2024_01_49_47Citrus%20Cafe%20Menu%20opt%201.pdf",
+        "name": null,
+        "location": null,
+        "menu_items": [],
+        "special_features": {
+            "vegetarian_options": "No",
+            "gluten_free": "No"
+        },
+        "operating_hours": null,
+        "contact_info": null
+    },
+    {
+        "url": "https://skyhiltoninn.com/menu/",
+        "name": "Menu",
+        "location": "J.B Emperor Square,1212 SA Bargawan, Alambagh, Lucknow522245700570808888078114088888Reservations@skyhilton.co.in",
+        "menu_items": [],
+        "special_features": {
+            "vegetarian_options": "No",
+            "gluten_free": "No"
+        },
+        "operating_hours": "J.B Emperor Square,1212 SA Bargawan, Alambagh, Lucknow522245700570808888078114088888Reservations@skyhilton.co.in",
+        "contact_info": "Phone: (064) 332-1233"
+    },
+    {
+        "url": "https://dineoutlucknow.com/menu/",
+        "name": null,
+        "location": null,
+        "menu_items": [
+            {
+                "name": "starters",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "breakfast",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "sandwitch/burger",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "noodles",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "chinese combo",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "chinese rice",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "paratha",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "breads",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "rice",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "dal",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "salad",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "desert",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "raita",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "soup",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "hot drink",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "soft drink",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "juice milk shake",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "chinese starter",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "chinese main course",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "dry veg",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "south indian",
+                "description": null,
+                "price": null
+            },
+            {
+                "name": "combo pack",
+                "description": null,
+                "price": null
+            }
+        ],
+        "special_features": {
+            "vegetarian_options": "No",
+            "gluten_free": "No"
+        },
+        "operating_hours": null,
+        "contact_info": "0522-424-4857"
+    }
+]
