@@ -98,7 +98,7 @@ $env:HF_TOKEN="your_huggingface_api_token"
 1. **Scrape Data**  
    ```bash
    cd scraper
-   python scraper.py
+   python scraper\scraper.py
    ```  
    Produces `data/restaurant_data.json`
 
