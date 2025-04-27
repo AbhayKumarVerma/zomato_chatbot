@@ -2,7 +2,7 @@
 
 
 An end-to-end GenAI-powered chatbot system for Zomato.  
-It scrapes restaurant data, builds a FAISS-based knowledge base, and provides a Streamlit web interface to answer user queries using both retrieved information and a large language model (LLM).
+It scrapes restaurant data, builds a FAISS-based knowledge bases , and provides a Streamlit web interface to answer user queries using both retrieved information and a large language model (LLM).
 
 ---
 ## Overview
