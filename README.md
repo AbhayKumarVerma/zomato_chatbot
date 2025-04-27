@@ -1,4 +1,10 @@
 # 🍔 Zomato Gen AI – Food Assistant Chatbot
+## 📺 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/IUkW8npbJPQ/0.jpg)](https://youtu.be/IUkW8npbJPQ)
+
+Or click here to watch on YouTube:  
+[▶️ Watch the video](https://youtu.be/IUkW8npbJPQ)
 
 An end-to-end GenAI-powered chatbot system for Zomato.  
 It scrapes restaurant data, builds a FAISS-based knowledge base, and provides a Streamlit web interface to answer user queries using both retrieved information and a large language model (LLM).
